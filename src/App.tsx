@@ -99,7 +99,7 @@ const App: React.FC = () => {
   return (
     <div style={appStyles}>
       <div style={containerStyles}>
-        <h1 style={titleStyles}>Todoss App</h1>
+        <h1 style={titleStyles}>Todo App change</h1>
         <div style={{ display: 'flex', marginBottom: '20px' }}>
           <input
             type="text"
